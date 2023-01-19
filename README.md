@@ -2,6 +2,8 @@
 
 What is this? This is a first project, made before my first day of actual instruction in my introduction to programming class, made only with the resources availible to me on Google and a rough knowledge of how programming works.
 
+I didn't use ChatGPT, and I am proud of myself for that. 
+
 What does it DO? Asks for a single character, returns it's Unicode name and hex value. 
 
 I specifically safeguarded against users putting in more than one character. 
